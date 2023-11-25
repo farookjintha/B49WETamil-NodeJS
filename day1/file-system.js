@@ -15,3 +15,11 @@ fs.writeFile("myfiles/file1.txt", "Updated Content 123!", (error, data) => {
 
   console.log("File has been updated successfully");
 });
+
+// fs.writeFile("myfiles/file1.txt", "Updated Content 123!", (error, data) => {
+//   if (data) {
+//     console.log("File has been updated successfully");
+//   } else {
+//     return console.log("ERROR WHILE WRITING THE FILE: ", error);
+//   }
+// });
