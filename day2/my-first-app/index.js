@@ -158,7 +158,3 @@ app.listen(4000, () => {
 // server.listen(4000, () => {
 //   console.log("App is running at PORT 4000");
 // });
-
-//    http://localhost:4000;
-
-// https://www.example.com/profile
